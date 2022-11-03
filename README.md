@@ -6,4 +6,9 @@ Take input from command line
 ## Lab2
 Write the java code that prints the sum of 2 numbers taken from the keyboard to the screen.
 
-Write your java code that writes 2 string expressions taken from the keyboard one after the other.
+Write the java code that writes 2 string expressions taken from the keyboard one after the other.
+
+## Lab3
+Write the java code that calculates the circumference and area of the circle. Pi value will be used by making use of java libraries. The radius value must be entered by the user.
+
+Implement the following equations in java programming language to understand the operation and operator precedence.
