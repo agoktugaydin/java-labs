@@ -18,3 +18,11 @@ Write the java code that finds the number of 'a' characters and the number of up
 
 ## Lab4.1
 Write the java code that extracts the "Programming Lesson" part from the String given as "Java Programming Lesson Fall 2012" and prints it to the screen. You have to use indexOf and subString APIs for this.
+
+## Lab5
+Write the java code that converts a 10-element integer array into an ArrayList<Integer> list of numbers.
+
+Write the java code that copies an integer array, whose element number and values are entered by the user, into another array, finds the average of the elements of the copied array and writes it to the screen.
+
+Write the java code that the elements of a 3x2 matrix are entered by the user and printed on the screen.
+
