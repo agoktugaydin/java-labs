@@ -10,6 +10,7 @@ public class lab3 {
         double radius = scanner.nextDouble();
         System.out.println("circumference value: " + 2*Math.PI*radius );
         System.out.println("area of circle: " + Math.PI*radius*radius);
+        scanner.close();
     }
     
     static void mathematicalOperations(){
@@ -35,7 +36,7 @@ public class lab3 {
         int options;
         Scanner keyboard = new Scanner(System.in); // Capturing the input
         options = keyboard.nextInt();
-        
+        keyboard.close();
         switch (options) {
             case 1:
                 circle();
